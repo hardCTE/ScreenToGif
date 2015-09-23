@@ -483,12 +483,6 @@ header h2 {
   margin: 0 auto;
 }
 
-.innerRight {
-  position: right;
-  width: 100px;
-  margin: 0 auto;
-}
-
 #content-wrapper {
   padding-top: 30px;
   border-top: solid 1px #fff;
